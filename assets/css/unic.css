@@ -16,7 +16,7 @@ body{
 .slick-track{
     display: flex !important;
     gap: 30px !important;
-    padding: 0 40px !important;
+    padding: 0 50px !important;
 }
 .slick-slide{
     max-width: 630px !important;
